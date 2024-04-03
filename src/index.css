@@ -1,0 +1,45 @@
+/* index.css */
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .input-container {
+    margin-bottom: 20px;
+  }
+  
+  .input-container input[type="text"],
+  .input-container select {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .restaurant-list {
+    margin-top: 20px;
+  }
+  
+  .restaurant {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .restaurant h3 {
+    margin-top: 0;
+  }
+  
+  .restaurant p {
+    margin: 5px 0;
+  }
+  
+  .loading {
+    font-style: italic;
+    color: #888;
+  }
+  

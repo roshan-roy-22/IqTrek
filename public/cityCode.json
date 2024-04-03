@@ -1,0 +1,566 @@
+[
+    {
+        "City": "Makati City",
+        "City Code": "1"
+    },
+    {
+        "City": "Mandaluyong City",
+        "City Code": "2"
+    },
+    {
+        "City": "Pasay City",
+        "City Code": "3"
+    },
+    {
+        "City": "Pasig City",
+        "City Code": "4"
+    },
+    {
+        "City": "Quezon City",
+        "City Code": "5"
+    },
+    {
+        "City": "San Juan City",
+        "City Code": "6"
+    },
+    {
+        "City": "Santa Rosa",
+        "City Code": "7"
+    },
+    {
+        "City": "Tagaytay City",
+        "City Code": "8"
+    },
+    {
+        "City": "Taguig City",
+        "City Code": "9"
+    },
+    {
+        "City": "BrasÌ_lia",
+        "City Code": "10"
+    },
+    {
+        "City": "Rio de Janeiro",
+        "City Code": "11"
+    },
+    {
+        "City": "SÌ£o Paulo",
+        "City Code": "12"
+    },
+    {
+        "City": "Albany",
+        "City Code": "13"
+    },
+    {
+        "City": "Armidale",
+        "City Code": "14"
+    },
+    {
+        "City": "Athens",
+        "City Code": "15"
+    },
+    {
+        "City": "Augusta",
+        "City Code": "16"
+    },
+    {
+        "City": "Balingup",
+        "City Code": "17"
+    },
+    {
+        "City": "Beechworth",
+        "City Code": "18"
+    },
+    {
+        "City": "Boise",
+        "City Code": "19"
+    },
+    {
+        "City": "Cedar Rapids/Iowa City",
+        "City Code": "20"
+    },
+    {
+        "City": "Chatham-Kent",
+        "City Code": "21"
+    },
+    {
+        "City": "Clatskanie",
+        "City Code": "22"
+    },
+    {
+        "City": "Cochrane",
+        "City Code": "23"
+    },
+    {
+        "City": "Columbus",
+        "City Code": "24"
+    },
+    {
+        "City": "Consort",
+        "City Code": "25"
+    },
+    {
+        "City": "Dalton",
+        "City Code": "26"
+    },
+    {
+        "City": "Davenport",
+        "City Code": "27"
+    },
+    {
+        "City": "Des Moines",
+        "City Code": "28"
+    },
+    {
+        "City": "Dicky Beach",
+        "City Code": "29"
+    },
+    {
+        "City": "Dubuque",
+        "City Code": "30"
+    },
+    {
+        "City": "East Ballina",
+        "City Code": "31"
+    },
+    {
+        "City": "Fernley",
+        "City Code": "32"
+    },
+    {
+        "City": "Flaxton",
+        "City Code": "33"
+    },
+    {
+        "City": "Forrest",
+        "City Code": "34"
+    },
+    {
+        "City": "Gainesville",
+        "City Code": "35"
+    },
+    {
+        "City": "Hepburn Springs",
+        "City Code": "36"
+    },
+    {
+        "City": "Huskisson",
+        "City Code": "37"
+    },
+    {
+        "City": "Inverloch",
+        "City Code": "38"
+    },
+    {
+        "City": "Lakes Entrance",
+        "City Code": "39"
+    },
+    {
+        "City": "Lakeview",
+        "City Code": "40"
+    },
+    {
+        "City": "Lincoln",
+        "City Code": "41"
+    },
+    {
+        "City": "Lorn",
+        "City Code": "42"
+    },
+    {
+        "City": "Macedon",
+        "City Code": "43"
+    },
+    {
+        "City": "Macon",
+        "City Code": "44"
+    },
+    {
+        "City": "Mayfield",
+        "City Code": "45"
+    },
+    {
+        "City": "Mc Millan",
+        "City Code": "46"
+    },
+    {
+        "City": "Middleton Beach",
+        "City Code": "47"
+    },
+    {
+        "City": "Miller",
+        "City Code": "48"
+    },
+    {
+        "City": "Monroe",
+        "City Code": "49"
+    },
+    {
+        "City": "Montville",
+        "City Code": "50"
+    },
+    {
+        "City": "Ojo Caliente",
+        "City Code": "51"
+    },
+    {
+        "City": "Orlando",
+        "City Code": "52"
+    },
+    {
+        "City": "Palm Cove",
+        "City Code": "53"
+    },
+    {
+        "City": "Paynesville",
+        "City Code": "54"
+    },
+    {
+        "City": "Penola",
+        "City Code": "55"
+    },
+    {
+        "City": "Pensacola",
+        "City Code": "56"
+    },
+    {
+        "City": "Phillip Island",
+        "City Code": "57"
+    },
+    {
+        "City": "Pocatello",
+        "City Code": "58"
+    },
+    {
+        "City": "Potrero",
+        "City Code": "59"
+    },
+    {
+        "City": "Princeton",
+        "City Code": "60"
+    },
+    {
+        "City": "Rest of Hawaii",
+        "City Code": "61"
+    },
+    {
+        "City": "Savannah",
+        "City Code": "62"
+    },
+    {
+        "City": "Singapore",
+        "City Code": "63"
+    },
+    {
+        "City": "Sioux City",
+        "City Code": "64"
+    },
+    {
+        "City": "Tampa Bay",
+        "City Code": "65"
+    },
+    {
+        "City": "Tanunda",
+        "City Code": "66"
+    },
+    {
+        "City": "Trentham East",
+        "City Code": "67"
+    },
+    {
+        "City": "Valdosta",
+        "City Code": "68"
+    },
+    {
+        "City": "Vernonia",
+        "City Code": "69"
+    },
+    {
+        "City": "Victor Harbor",
+        "City Code": "70"
+    },
+    {
+        "City": "Vineland Station",
+        "City Code": "71"
+    },
+    {
+        "City": "Waterloo",
+        "City Code": "72"
+    },
+    {
+        "City": "Weirton",
+        "City Code": "73"
+    },
+    {
+        "City": "Winchester Bay",
+        "City Code": "74"
+    },
+    {
+        "City": "Yorkton",
+        "City Code": "75"
+    },
+    {
+        "City": "Abu Dhabi",
+        "City Code": "76"
+    },
+    {
+        "City": "Dubai",
+        "City Code": "77"
+    },
+    {
+        "City": "Sharjah",
+        "City Code": "78"
+    },
+    {
+        "City": "Agra",
+        "City Code": "79"
+    },
+    {
+        "City": "Ahmedabad",
+        "City Code": "80"
+    },
+    {
+        "City": "Allahabad",
+        "City Code": "81"
+    },
+    {
+        "City": "Amritsar",
+        "City Code": "82"
+    },
+    {
+        "City": "Aurangabad",
+        "City Code": "83"
+    },
+    {
+        "City": "Bangalore",
+        "City Code": "84"
+    },
+    {
+        "City": "Bhopal",
+        "City Code": "85"
+    },
+    {
+        "City": "Bhubaneshwar",
+        "City Code": "86"
+    },
+    {
+        "City": "Chandigarh",
+        "City Code": "87"
+    },
+    {
+        "City": "Chennai",
+        "City Code": "88"
+    },
+    {
+        "City": "Coimbatore",
+        "City Code": "89"
+    },
+    {
+        "City": "Dehradun",
+        "City Code": "90"
+    },
+    {
+        "City": "Faridabad",
+        "City Code": "91"
+    },
+    {
+        "City": "Ghaziabad",
+        "City Code": "92"
+    },
+    {
+        "City": "Goa",
+        "City Code": "93"
+    },
+    {
+        "City": "Gurgaon",
+        "City Code": "94"
+    },
+    {
+        "City": "Guwahati",
+        "City Code": "95"
+    },
+    {
+        "City": "Hyderabad",
+        "City Code": "96"
+    },
+    {
+        "City": "Indore",
+        "City Code": "97"
+    },
+    {
+        "City": "Jaipur",
+        "City Code": "98"
+    },
+    {
+        "City": "Kanpur",
+        "City Code": "99"
+    },
+    {
+        "City": "Kochi",
+        "City Code": "100"
+    },
+    {
+        "City": "Kolkata",
+        "City Code": "101"
+    },
+    {
+        "City": "Lucknow",
+        "City Code": "102"
+    },
+    {
+        "City": "Ludhiana",
+        "City Code": "103"
+    },
+    {
+        "City": "Mangalore",
+        "City Code": "104"
+    },
+    {
+        "City": "Mohali",
+        "City Code": "105"
+    },
+    {
+        "City": "Mumbai",
+        "City Code": "106"
+    },
+    {
+        "City": "Mysore",
+        "City Code": "107"
+    },
+    {
+        "City": "Nagpur",
+        "City Code": "108"
+    },
+    {
+        "City": "Nashik",
+        "City Code": "109"
+    },
+    {
+        "City": "New Delhi",
+        "City Code": "110"
+    },
+    {
+        "City": "Noida",
+        "City Code": "111"
+    },
+    {
+        "City": "Panchkula",
+        "City Code": "112"
+    },
+    {
+        "City": "Patna",
+        "City Code": "113"
+    },
+    {
+        "City": "Puducherry",
+        "City Code": "114"
+    },
+    {
+        "City": "Pune",
+        "City Code": "115"
+    },
+    {
+        "City": "Ranchi",
+        "City Code": "116"
+    },
+    {
+        "City": "Secunderabad",
+        "City Code": "117"
+    },
+    {
+        "City": "Surat",
+        "City Code": "118"
+    },
+    {
+        "City": "Vadodara",
+        "City Code": "119"
+    },
+    {
+        "City": "Varanasi",
+        "City Code": "120"
+    },
+    {
+        "City": "Vizag",
+        "City Code": "121"
+    },
+    {
+        "City": "Bandung",
+        "City Code": "122"
+    },
+    {
+        "City": "Bogor",
+        "City Code": "123"
+    },
+    {
+        "City": "Jakarta",
+        "City Code": "124"
+    },
+    {
+        "City": "Tangerang",
+        "City Code": "125"
+    },
+    {
+        "City": "Auckland",
+        "City Code": "126"
+    },
+    {
+        "City": "Wellington City",
+        "City Code": "127"
+    },
+    {
+        "City": "Birmingham",
+        "City Code": "128"
+    },
+    {
+        "City": "Edinburgh",
+        "City Code": "129"
+    },
+    {
+        "City": "London",
+        "City Code": "130"
+    },
+    {
+        "City": "Manchester",
+        "City Code": "131"
+    },
+    {
+        "City": "Doha",
+        "City Code": "132"
+    },
+    {
+        "City": "Cape Town",
+        "City Code": "133"
+    },
+    {
+        "City": "Inner City",
+        "City Code": "134"
+    },
+    {
+        "City": "Johannesburg",
+        "City Code": "135"
+    },
+    {
+        "City": "Pretoria",
+        "City Code": "136"
+    },
+    {
+        "City": "Randburg",
+        "City Code": "137"
+    },
+    {
+        "City": "Sandton",
+        "City Code": "138"
+    },
+    {
+        "City": "Colombo",
+        "City Code": "139"
+    },
+    {
+        "City": "Ankara",
+        "City Code": "140"
+    },
+    {
+        "City": "€¡stanbul",
+        "City Code": "141"
+    }
+]
